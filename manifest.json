@@ -1,19 +1,11 @@
 {
-  "manifest_version": 2,
-  "name": "",
-  "description": "",
-  "version": "",
+  "manifest_version": 3,
+  "name": "Inch/Cm Converter",
+  "description": "Convert inches to centimeters or centimeters to inches",
+  "version": "1.0",
   "icons": {
-    "16": "",
-    "48": "",
-    "128": ""
-  },
-  "page_action": {
-    "default_icon": {
-      "16": "",
-      "48": "",
-      "128": ""
-    }
-  },
-  "content_scripts": [{}]
+    "16": "images/Icon16.png",
+    "48": "images/Icon48.png",
+    "128": "images/Icon128.png"
+  }
 }
